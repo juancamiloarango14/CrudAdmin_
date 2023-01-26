@@ -20,11 +20,11 @@ namespace CrudAdmin.Controllers
             return View();
         }
 
-        public ActionResult Contact()
+        public ActionResult Mision()
         {
-            ViewBag.Message = "Your contact page.";
 
             return View();
         }
+
     }
 }
